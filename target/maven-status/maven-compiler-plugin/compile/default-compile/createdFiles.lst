@@ -1,0 +1,8 @@
+com/nearbuy/mechant/service/MerchantDealsService.class
+com/nearbuy/mechant/db/repository/DealsRepository.class
+com/nearbuy/mechant/configuaration/SwaggerConfig.class
+com/nearbuy/mechant/App.class
+com/nearbuy/mechant/controller/MerchantRestController.class
+com/nearbuy/mechant/db/repository/MerchantRepository.class
+com/nearbuy/mechant/db/model/Merchant.class
+com/nearbuy/mechant/db/model/Deals.class
